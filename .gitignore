@@ -1,0 +1,27 @@
+
+# Environment
+.env
+.venv/
+env/
+__pycache__/
+
+# Logs
+logs/
+*.log
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Artifacts
+dist/
+build/
+*.egg-info/

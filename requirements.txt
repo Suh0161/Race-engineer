@@ -1,0 +1,25 @@
+# Discord (2.6+ fixes voice 4006 "session invalid" error)
+discord.py[voice]>=2.6.0
+PyNaCl==1.5.0
+
+# F1 Telemetry
+f1-packets==2025.1.1
+
+# AI / LLM  (Kimi API via OpenAI-compatible SDK)
+openai>=1.30.0
+
+# TTS
+elevenlabs==1.9.0
+
+# Database
+aiosqlite==0.20.0
+
+# Environment
+python-dotenv==1.0.1
+
+# Audio
+PyDub==0.25.1
+
+# Utilities
+aiohttp==3.10.11
+aiofiles==24.1.0
