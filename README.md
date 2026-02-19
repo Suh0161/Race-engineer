@@ -51,7 +51,7 @@ It tracks tyre wear, fuel, gaps, sector times, and rivals to give you actual str
 python main.py
 ```
 
-Invite the bot to your server, join a voice channel, and type `/join`. As soon as you hit the track, the engineer will radio in.
+Invite the bot to your server, join a voice channel, and type `/join`. As soon as you hit the track, the engineer will radio in
 
 ## Features
 
